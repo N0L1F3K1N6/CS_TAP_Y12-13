@@ -1,0 +1,3 @@
+All screenshots with the same begining number are linked sub numbers shows following attempts
+
+EXAMPLE : example_1-1 is linked to example_1-2 but not to example_2-1
